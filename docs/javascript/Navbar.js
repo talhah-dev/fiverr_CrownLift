@@ -76,17 +76,6 @@ navbar.innerHTML = `
     </div>
 
     <div class="px-5 pb-8">
-      <div class="mt-5 rounded-3xl border border-[#777C7C]/15 bg-white p-4">
-        <p class="text-sm font-extrabold text-[#111827]">Quick contact</p>
-        <div class="mt-3 grid gap-2 text-sm">
-          <a href="tel:+16516883048" class="inline-flex items-center justify-between rounded-2xl border border-[#777C7C]/15 px-4 py-3 font-semibold text-[#111827] hover:bg-[#777C7C]/5 transition">
-            <span>Call</span><span class="text-[#777C7C]">(651) 688-3048</span>
-          </a>
-          <a href="mailto:office@ableconcretemn.com" class="inline-flex items-center justify-between rounded-2xl border border-[#777C7C]/15 px-4 py-3 font-semibold text-[#111827] hover:bg-[#777C7C]/5 transition">
-            <span>Email</span><span class="text-[#777C7C]">office@ableconcretemn.com</span>
-          </a>
-        </div>
-      </div>
 
       <nav class="mt-5">
         <ul class="space-y-2">
